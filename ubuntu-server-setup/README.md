@@ -6,5 +6,5 @@ This repository contains Ansible playbooks and roles for automating preparing os
 - Install OS utility packages
 - Install network packages
 - Install and configure docker
-- Hardeing OS
+- Hardening OS
 - Setup ssh,frewall and ...
